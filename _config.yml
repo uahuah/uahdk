@@ -1,1 +1,6 @@
 theme: jekyll-theme-cayman
+title: "UAH Logistics ApS"
+description: "Small Business logistics knowledge"
+show_downloads: false
+github:
+  is_project_page: false
